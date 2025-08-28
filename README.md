@@ -1,5 +1,5 @@
 # Mini Project Manager
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ThePsychoCoder/Mini-Project-Manager)
+
 
 A full-stack project management tool designed to help users organize their projects and tasks efficiently. The application features a RESTful API backend built with Node.js and Express, and a dynamic, responsive frontend built with Next.js and Redux.
 
